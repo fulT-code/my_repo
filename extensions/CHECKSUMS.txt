@@ -1,0 +1,12 @@
+=== tachiyomi-en.asurascans-v1.4.47.apk ===
+SHA256: 3088f2066684ba2c96fe645783355d337fdab4700237ec225af6db7663701d63
+MD5:    191884bd1aaa335d95c9e4f890eeada1
+
+=== tachiyomi-fr.reaperscans-v1.4.21.apk ===
+SHA256: 9e210bb8b635548568ffb61909094696dee1a91455a61af8cb4d180bba3746e9
+MD5:    8c2b3748f6109af74bf841aa76bc7b3f
+
+=== tachiyomi-it.lupiteam-v1.4.6.apk ===
+SHA256: 66cf1a7a56b803ab457156a8a415663646e5fd96f99ad625b495ea9cdab1e45f
+MD5:    ea0bdb42b9c2957294126c49a4a68438
+
