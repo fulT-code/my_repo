@@ -1,0 +1,59 @@
+[
+  {
+    "name": "AsuraScans",
+    "pkg": "eu.kanade.tachiyomi.extension.en.asurascans",
+    "apk": "tachiyomi-en.asurascans-v1.4.47.apk",
+    "lang": "en",
+    "code": 1447,
+    "version": "1.4.47",
+    "nsfw": 0,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Asura Scans",
+        "lang": "en",
+        "id": "8934745987938457",
+        "baseUrl": "https://asuracomic.net"
+      }
+    ]
+  },
+  {
+    "name": "ReaperScans",
+    "pkg": "eu.kanade.tachiyomi.extension.fr.reaperscans",
+    "apk": "tachiyomi-fr.reaperscans-v1.4.21.apk",
+    "lang": "fr",
+    "code": 1421,
+    "version": "1.4.21",
+    "nsfw": 0,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Reaper Scans",
+        "lang": "fr",
+        "id": "2934745987938457",
+        "baseUrl": "https://reaper-scans.fr"
+      }
+    ]
+  },
+  {
+    "name": "LupiTeam",
+    "pkg": "eu.kanade.tachiyomi.extension.it.lupiteam",
+    "apk": "tachiyomi-it.lupiteam-v1.4.6.apk",
+    "lang": "it",
+    "code": 146,
+    "version": "1.4.6",
+    "nsfw": 0,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "LupiTeam",
+        "lang": "it",
+        "id": "1934745987938457",
+        "baseUrl": "https://lupiteam.net"
+      }
+    ]
+  }
+]
